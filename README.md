@@ -4,4 +4,4 @@
 
 Get 1000 points to beat the game :D
 
-##Controls Right click to jump :D
+###Controls Right click to jump :D
